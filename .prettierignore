@@ -1,0 +1,7 @@
+# Node/Frontend builds
+dist/
+node_modules/
+
+# Tauri/Rust builds
+src-tauri/target/
+src-tauri/gen/
